@@ -1,0 +1,122 @@
+html {
+
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+  
+  #logo {
+  
+      height: 55px;
+      width: 145px;
+    margin-left: -20px;
+  }
+  
+  nav {
+  
+    float: right;
+    text-align: center;
+  
+  }
+  
+  nav a {
+  
+    display: block;
+    padding: 8px;
+    background-color: none;
+    text-decoration: none;
+    float: left;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+  
+  }
+  
+  #form-page-margin {
+  
+    margin-top: 40px;
+  
+  }
+  
+  form {
+  
+    text-align: center;
+    justify-content: center;
+  
+  }
+  
+  .labels {
+  
+    font-family: sans-serif;
+    display: inline-block;
+    text-align: center;
+  
+  }
+  
+  .inputs {
+  
+      height: 30px;
+      width: 285px;
+      border-radius: 5px;
+      border-width: thin;
+      margin-top: 5px;
+  }
+  
+  h2 {
+  
+    text-align: center;
+    font-family: sans-serif;
+  
+  }
+  
+  button {
+  
+    background: black;
+    color: white;
+    height: 35px;
+    width: 65px;
+    border-radius: 10px;
+    border-width: thin;
+  
+  }
+  
+  button a {
+  
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+  
+  }
+  
+  .hyperlinks {
+  
+    text-align: center;
+    margin-top: 30px;
+  
+  }
+  
+  .hyperlinks a {
+  
+  font-family: sans-serif;
+  
+  }
+  
+  .msg-box {
+  
+    height:160px;
+    width: 285px;
+    border-radius: 5px;
+    border-width: thin;
+    margin-top: 5px;
+    padding-top: 15px;
+    font-family: sans-serif;
+  
+  }
+  
+  .error {
+  
+    font-family: sans-serif;
+    color: red;
+    text-align: center;
+  
+  }
